@@ -13,14 +13,6 @@ output:
     highlight: github
 ---
 
-
-## Contact Information :
-***
-**Email**          : ayush.agarwal2@nomura.com, ayuag@iitk.ac.in  
-**GitHub handle**  : [ayushmclaren](http://github.com/ayushmclaren)  
-**Telephone**      : +91 9815139259 \\
-**Whatsapp**       : +91 9872548037
-
 # Day 1 : A Dip into Oil 
 ***
 
@@ -115,3 +107,10 @@ Platts Dated Brent is a benchmark assessment of the price of physical, light Nor
 **Brent-WTI Spread**
 
 ![](/Users/mclaren/Desktop/Archive/BvsW.png)
+
+## Contact Information :
+***
+**Email**          : ayush.agarwal50@gmail.com, ayuag@iitk.ac.in  
+**GitHub handle**  : [ayushmclaren](http://github.com/ayushmclaren)  
+**Telephone**      : +91 9815139259  
+**LinkedIn**       : [Ayush Agarwal](https://www.linkedin.com/in/ayushmclaren/)
