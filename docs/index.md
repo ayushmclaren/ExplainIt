@@ -54,17 +54,64 @@ On top of the daily charter costs for an oil tanker of about \$55,000 (U.S.), tr
 
 With this comes the expiry date for May’s contract, April 20th. Removing oil would be impossible cause after all its 1000 barrels per contract. Even Cushing is dangerously close to its capacity and is left with 2 weeks of capacity, and due to the dynamic nature of pricing the storage cost is now disproportionately high. Even the offshore containers near the African coast are not available with 160 million barrels of oil now held in floating storage on ships. So much so that companies have now asked permissions to convert pipelines into temporary storage. The realisation hits the market and about 3 hours before expiry, WTI oil for May is dangerously flirting near \$0 levels. Panic starts to seep in, and within minutes the WTI contract has gone below 0\$. Anyone rolling over would have to pay as much as \$60 (since when at -40 levels, June forwards were still trading at \$20), Hence people figured it’s better to pay someone to get rid of the oil contacts instead of the alternatives. 
 
-![Infographic](/Users/mclaren/Desktop/Archive/time.jpeg)
+![](/Users/mclaren/Desktop/Archive/time.jpeg)
 
 
 
 ## Difference between WTI and Brent. Major Oil suppliers and importers.
 
-First of all, WTI and Brent Crude are each major benchmarks for oil pricing. WTI is the main oil benchmark for North America, and Brent Crude is the International benchmark. WTI crude oil is sourced in North America, primarily from Texas, whereas Brent Crude is sourced from oil fields in the North Sea, near Norway. Brent has unlimited storage capacity for oil producers because it's produced at sea. The WTI crude is produced in landlocked areas, leaving producers vulnerable to running out of storage capacity. WTI forward contracts are settled with physical barrels, while Brent is a cash-settled forward. When the WTI contract expires, a quantity of oil that previously existed only on paper is converted into physical barrels that need to be used or else stored at a major U.S. storage site tied to the contract at Cushing, Oklahoma. Since nobody will pay you to take cash, a negative Brent value would not make sense. (Side Note - MCX cash-settled derivatives based on WTI were deeply affected as well, and BSE is testing negative prices now). Brent is an indicator for sentiment rather than a physical metric. Dated Brent would be a much more physical connecting benchmark. Both Brent Crude and West Texas Intermediate are light and sweet, making them ideal for refining into gasoline.
-There has been a trend, due to advancements in oil drilling and fracking, of West Texas Intermediate becoming cheaper than Brent Crude oil. Prior to this, Brent Crude tended to be cheaper than West Texas Crude. This has been dubbed the American shale revolution.
+First of all, WTI and Brent Crude are each major benchmarks for oil pricing. Since nobody will pay you to take cash, a negative Brent value would not make sense. (Side Note - MCX cash-settled derivatives based on WTI were deeply affected as well, and BSE is testing negative prices now). Brent is an indicator for sentiment rather than a physical metric.
 
-Major Exporters :- OPEC+ countries like - Saudi Arabia, Russia, Iran, Iraq, UAE, Venezuela, Norway, Nigeria, Mexico, Libya
 
-Major Importers :- USA, Japan, China, Germany, South Korea, India, France, Italy, Spain.
 
-![Infographic](/Users/mclaren/Desktop/Archive/b.jpg)
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> WTI </th>
+   <th style="text-align:left;"> BRENT </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> WTI is the main oil benchmark for North America </td>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> Brent Crude is the International benchmark </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> WTI crude oil is sourced in North America, primarily from Texas </td>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> Brent Crude is sourced from oil fields in the North Sea, near Norway. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> The WTI crude is produced in landlocked areas, leaving producers vulnerable to running out of storage capacity. </td>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> Brent has unlimited storage capacity for oil producers because it's produced at sea. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> WTI forward contracts are settled with physical barrels </td>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> Brent is a cash-settled forward. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> WTI has a sulfur content of 0.24%, API of 39.6 </td>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> Brent has a sulfur content of 0.37%, API of 38 </td>
+  </tr>
+</tbody>
+</table>
+
+
+**Major Exporters (by net exports)**
+
+![](/Users/mclaren/Desktop/Archive/Netexp.png)
+
+
+**Major Importers**
+
+![](/Users/mclaren/Desktop/Archive/Import.png)
+
+
+**Dated Brent**
+
+Platts Dated Brent is a benchmark assessment of the price of physical, light North Sea crude oil. The term "Dated Brent" refers to physical cargoes of crude oil in the North Sea that have been assigned specific delivery dates.
+
+![](/Users/mclaren/Desktop/Archive/brent.jpg)
+
+**Brent-WTI Spread**
+
+![](/Users/mclaren/Desktop/Archive/BvsW.png)
