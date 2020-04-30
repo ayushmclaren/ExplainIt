@@ -1,2 +1,2 @@
-# Nomura
-Nomura Daily Explainers
+# Explain-It
+Daily Explainers
