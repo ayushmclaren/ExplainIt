@@ -36,6 +36,7 @@ First of all, WTI and Brent Crude are each major benchmarks for oil pricing. WTI
 There has been a trend, due to advancements in oil drilling and fracking, of West Texas Intermediate becoming cheaper than Brent Crude oil. Prior to this, Brent Crude tended to be cheaper than West Texas Crude. This has been dubbed the American shale revolution.
 
 Major Exporters :- OPEC+ countries like - Saudi Arabia, Russia, Iran, Iraq, UAE, Venezuela, Norway, Nigeria, Mexico, Libya
+
 Major Importers :- USA, Japan, China, Germany, South Korea, India, France, Italy, Spain.
 
 ![Infographic](/Users/mclaren/Desktop/b.jpg)
