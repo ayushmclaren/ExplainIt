@@ -26,9 +26,37 @@ output:
 
 ## Recent move in oil. [negative prices]
 
-First of all, the markets are flooded with oil. Since the pandemic started, an estimated 30% of the world demand has perished while the output has majorly remained the same. Around April 13, Oil deal was announced. However, the cuts were much lower than expected and if you look closely within you’ll find it really isn’t as goody good as it sounds. Russia’s output has not fallen in years and it will continue to violate OPEC+ deals as it had been all this while, and the 2.5 mn cut Saudi announced was from a 11 mn baseline which it has never been able to sustain daily anyway, it’s average is around 8.5 which means the remains 2.5 was coming from inventories anyway. To sum it up, Oil deal failed to inspire confidence and offer the much needed respite. Now, Oil is traded in Futures contract, and WTI in particular is a physically settled futures contract. Most of the trade is a speculative one, therefore do not want physical oil, and refiners given the glut, no demand, tough transport conditions don’t want it either. Now, most of the WTI oil is delivered at Cushing, Oklahoma where you have to take delivery of the oil. Since the forward month was May, delivery was to be taken between 1st to 31st or else pay them to store. Some oil producers even want to induce Force Majeure. With this comes the expiry date for May’s contract, April 20th. Removing oil would be impossible cause after all its 1000 barrels per contract. Even Cushing is dangerously close to its capacity and is left with 2 weeks of capacity, and due to the dynamic nature of pricing the storage cost is now disproportionately high. Even the offshore containers near the African coast are not available. So much so that companies have now asked permissions to convert pipelines into temporary storage. The realisation hits the market and about 3 hours before expiry oil is dangerously flirting near \$0 levels. Panic starts to seep in, and within minutes we see oil has gone below 0\$. Anyone rolling over would have to pay as much as $60 (since when at -40 levels, June forwards were still trading at \$20). Hence people figured it’s better to pay someone to get rid of the oil contacts instead of the alternatives. 
+**Oil Production by Numbers**
 
-![Infographic](/Users/mclaren/Desktop/a.png)
+![](/Users/mclaren/Desktop/Archive/OilProd.png)
+
+**Oil Deal**
+
+First of all, the markets are flooded with oil. Since the pandemic started, IEA estimated a 30% (29 million barrels/day in April 2020) of the world demand has perished while the output has majorly remained the same. Around April 13, Oil deal was announced. However, the cuts (9.8mn barrels/day) were much lower than expected.
+And if you look closely within you’ll find the deal really isn’t as good as it sounds. Russia’s output has not fallen in years and it will continue to violate OPEC+ deals as it had been all this while, and the 2.5 mn/day cut Saudi announced was from a 11mn/day baseline which it has never been able to sustain daily anyway, it’s average is around 8.5 which means the remains 2.5 mn was coming from inventories, effectively amounting to no or meagre cuts. To sum it up, Oil deal failed to inspire confidence and offer the much needed respite. 
+
+
+**How is WTI Oil traded?**
+
+In the worldwide oil industry, an oil barrel is defined as 42 US gallons, which is about 159 litres. Now, Oil is traded in Futures contracts, and WTI in particular is a physically settled futures contract i.e when the WTI contract expires, a quantity of oil that previously existed only on paper is converted into physical barrels. Now, most of the WTI oil is delivered at Cushing, Oklahoma where you have to take delivery of the oil. Since the forward month was May, delivery was to be taken between 1st to 31st or else pay them to store.
+
+**Speculative vs Hedging Trade**
+
+Most of the trade is a speculative one, therefore do not want physical oil, and refiners given the glut, no demand, tough transport conditions don’t want it either. Some oil producers even wanted to induce Force Majeure. 
+
+![](/Users/mclaren/Desktop/Archive/Oint.png)
+
+**Storage of Oil - Costs**
+
+On top of the daily charter costs for an oil tanker of about \$55,000 (U.S.), traders that use floating storage must pay for the ship's fuel (3 cents a month per barrel), port support costs (10 cents a month per barrel) and interest on the loan to finance the purchase of the oil (10 cents a month per barrel). This can add up to about \$1.10 a month per barrel. A LOOP oil storage futures price for Jun ‘20 is trading at \$0.55 at the moment.
+
+**Conclusion**
+
+With this comes the expiry date for May’s contract, April 20th. Removing oil would be impossible cause after all its 1000 barrels per contract. Even Cushing is dangerously close to its capacity and is left with 2 weeks of capacity, and due to the dynamic nature of pricing the storage cost is now disproportionately high. Even the offshore containers near the African coast are not available with 160 million barrels of oil now held in floating storage on ships. So much so that companies have now asked permissions to convert pipelines into temporary storage. The realisation hits the market and about 3 hours before expiry, WTI oil for May is dangerously flirting near \$0 levels. Panic starts to seep in, and within minutes the WTI contract has gone below 0\$. Anyone rolling over would have to pay as much as \$60 (since when at -40 levels, June forwards were still trading at \$20), Hence people figured it’s better to pay someone to get rid of the oil contacts instead of the alternatives. 
+
+![Infographic](/Users/mclaren/Desktop/Archive/time.jpeg)
+
+
 
 ## Difference between WTI and Brent. Major Oil suppliers and importers.
 
@@ -39,4 +67,4 @@ Major Exporters :- OPEC+ countries like - Saudi Arabia, Russia, Iran, Iraq, UAE,
 
 Major Importers :- USA, Japan, China, Germany, South Korea, India, France, Italy, Spain.
 
-![Infographic](/Users/mclaren/Desktop/b.jpg)
+![Infographic](/Users/mclaren/Desktop/Archive/b.jpg)
