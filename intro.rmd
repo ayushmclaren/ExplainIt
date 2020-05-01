@@ -1,11 +1,11 @@
 ---
-title: "Explain-It 2020, Ayush Agarwal" 
+title: "intro" 
 author: "Explainers"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
  encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+ output_file=file.path(dirname(input_file), out_dir, 'intro.html'))})
 output:
   prettydoc::html_pretty:
     keep_md: True

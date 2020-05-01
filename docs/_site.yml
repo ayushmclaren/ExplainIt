@@ -1,8 +1,17 @@
 name : "Ayush's Website"
-theme: jekyll-theme-cayman
 
 navbar :
  title: "Explain-It"
  left :
   - text: "Home"
-    href: index.md
+    href: index.html
+  - text: "Ok"
+    href: intro.html
+    
+output: 
+ prettydoc::html_pretty:
+    keep_md: True
+    theme: cayman
+    highlight: github
+
+output_dir = "."
