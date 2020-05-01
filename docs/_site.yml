@@ -5,4 +5,4 @@ navbar :
  title: "Explain-It"
  left :
   - text: "Home"
-    href: index.html
+    href: index.md
