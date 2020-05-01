@@ -1,1 +1,8 @@
+name : "Ayush's Website"
 theme: jekyll-theme-cayman
+
+navbar :
+ title: "Explain-It"
+ left :
+  - text: "Home"
+    href: index.html
