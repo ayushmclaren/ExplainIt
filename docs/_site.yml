@@ -11,7 +11,7 @@ navbar :
 output: 
  prettydoc::html_pretty:
     keep_md: True
-    theme: cayman
+    theme: cosmo
     highlight: github
 
 output_dir = "."

@@ -13,6 +13,60 @@ output:
     highlight: github
 ---
 
+# Day 3 : Let's talk Options!
+***
+
+## Options - Introduction
+
+### Technical Terms -
+
+* Strike Price :- The price at which an option can be exercised. 
+
+* Underlying Price :- The underlying price is the price at which the underlying asset trades in the spot market.
+Exercising of an option contract :-  The act of claiming your right to buy the options contract at the end of the expiry. 
+
+* Option Expiry :- Similar to a futures contract, options contract also has expiry. 
+
+* Option Premium :- Premium is the money required to be paid by the option buyer to the option seller/writer. Against the payment of premium, the option buyer buys the right to exercise the option. 
+
+## Call Options - 
+
+* The buyer of the call option has the right, but not the obligation to buy an agreed quantity of the underlying from the seller, at the expiration date for the strike price. The seller (or “writer”) is obligated to sell the commodity or financial instrument should the buyer so decide. The buyer pays a fee (called a premium) for this right. 
+
+
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Buying </th>
+   <th style="text-align:left;"> Selling </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> It makes sense to be a buyer of a call option when you expect the underlying price to increase. If the underlying price remains flat or goes down then the buyer of the call option loses money. </td>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> Selling a call option makes sense only when you believe that upon expiry, the underlying asset will not increase beyond the strike price. If the underlying price remains flat or goes up then the seller of the call option loses money. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> The call option buyer has limited risk (to the extent of the premium paid) and a potential to make an unlimited profit. </td>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> The profit of an option seller is restricted to the premium he receives, however his loss is potentially unlimited. Since a short option position carries unlimited risk, he is required to deposit margin. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> Intrinsic value, IV = Spot Price – Strike Price </td>
+   <td style="text-align:left;width: 30em; border-right:1px solid;"> Intrinsic value, IV = Spot Price – Strike Price </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
 # Day 2 : Peak into the Commodity Industry
 ***
 
