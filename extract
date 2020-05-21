@@ -1,0 +1,19 @@
+import requests
+import json
+
+url = "https://www.nseindia.com/api/option-chain-indices?symbol=NIFTY"
+
+def fetch_oi():
+    req = requests.get(url).json() 
+    
+    with open("OI_data.json","w") as files:
+        files.write(json.dumps(req,indent=4,sort_keys=True))
+    
+    
+
+def main():
+    fetch_oi()
+
+
+if __name__ == '__main__':
+    main()
